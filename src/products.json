@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "QQwv7o-",
+    "name": "mac book pro",
+    "brand": "apple",
+    "price": 1100,
+    "category": "pc",
+    "description": "it's expensive",
+    "imageUrl": "",
+    "createdAt": "2019-09-13T08:31:05.263Z",
+    "updatedAt": "2019-09-13T15:10:02.387Z"
+  },
+  {
+    "_id": "i-AypYJ",
+    "name": "siddartha",
+    "brand": "",
+    "price": 10,
+    "category": "books",
+    "description": "ispirational",
+    "imageUrl": "",
+    "createdAt": "2019-09-13T15:06:50.813Z",
+    "updatedAt": "2019-09-13T15:50:15.979Z"
+  },
+  {
+    "name": "huawai p30 pro",
+    "brand": "huawei",
+    "price": 639,
+    "category": "smartphone",
+    "description": "128gb",
+    "_id": "T99lTjJ",
+    "createdAt": "2019-09-13T15:07:47.316Z",
+    "updatedAt": "2019-09-13T15:07:47.316Z",
+    "imageUrl": ""
+  },
+  {
+    "name": "asus aspire v3",
+    "brand": "asus",
+    "price": 900,
+    "category": "pc",
+    "description": "NVIDIA GeForce 750M",
+    "_id": "emznZFq",
+    "createdAt": "2019-09-13T15:08:22.606Z",
+    "updatedAt": "2019-09-13T15:08:22.606Z",
+    "imageUrl": ""
+  },
+  {
+    "_id": "vfGtpAE",
+    "name": "samsung s10",
+    "brand": "samsung",
+    "price": 559,
+    "category": "smarthphones",
+    "description": "it's a phone",
+    "imageUrl": "http://localhost:3000/image/vfGtpAE.png",
+    "createdAt": "2019-09-13T08:19:09.269Z",
+    "updatedAt": "2019-09-13T08:19:09.269Z"
+  },
+  {
+    "name": "pc monitor 29'",
+    "brand": "LG",
+    "price": 300,
+    "category": "monitor",
+    "description": "full hd",
+    "_id": "Gq9UP7h",
+    "createdAt": "2019-09-13T15:07:20.111Z",
+    "updatedAt": "2019-09-13T15:07:20.111Z",
+    "imageUrl": "http://localhost:3000/image/Gq9UP7h.jpg"
+  }
+]
